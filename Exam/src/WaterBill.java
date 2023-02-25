@@ -5,6 +5,7 @@ public class WaterBill {
 	double unit_cost;
 	double bill_amt;
 	
+	
 	WaterBill(String Acct_num,int num_units, double unit_cost)
 	{
 		this.Acct_num = Acct_num;
